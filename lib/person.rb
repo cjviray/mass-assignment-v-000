@@ -19,4 +19,7 @@ class Person
     @pant_width = pant_width
   end 
   
+  
+  
+  
 end
