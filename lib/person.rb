@@ -19,7 +19,8 @@ class Person
     @pant_width = pant_width
   end 
   
-  
+  class Person.new(name, )
+end 
   
   
 end
