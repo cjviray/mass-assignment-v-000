@@ -4,6 +4,7 @@ class Person
   
   def initialize(name: )
     @name = name 
-    
+    @birthday = birthday
+    @hair_color = hair color 
   
 end
