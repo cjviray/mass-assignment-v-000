@@ -20,7 +20,8 @@ class Person
   end 
   
   class Person.new(name, )
-end 
+    
+  end 
   
   
 end
